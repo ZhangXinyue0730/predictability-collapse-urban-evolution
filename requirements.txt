@@ -1,0 +1,16 @@
+affine
+geopandas
+matplotlib
+networkx
+numpy
+openpyxl
+pandas
+pillow
+pyproj
+rasterio
+scikit-image
+scikit-learn
+scipy
+shapely
+tqdm
+
